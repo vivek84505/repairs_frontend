@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Laravel installed suceesfully</h2>    
+    <h2>Laravel installed suceesfully updated</h2>    
 
 </body>
 </html>
